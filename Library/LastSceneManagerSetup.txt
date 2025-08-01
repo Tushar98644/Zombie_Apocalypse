@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/StarterAssets/Environment 1/Town Constructor Pack/Scenes/Town.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
